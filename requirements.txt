@@ -1,0 +1,5 @@
+Babel==2.14.0
+peewee==3.17.1
+PyMySQL==1.1.0
+python-dotenv==1.0.1
+tkcalendar==1.6.1

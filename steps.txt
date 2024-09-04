@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=QKLGo8085zs
+$ mysql -u root -p //1234
+
+$ py -m venv venv
+$ . venv/bin/activate
+
+(venv) $ pip install peewee
+(venv) $ pip install pymysql
+(venv) $ pip install tkcalendar
+(venv) $ pip install python-dotenv
+(venv) $ pip install pillow
+
+(venv) $ deactivate
+
+peewee: MIT
+pymysql: MIT
+tkcalendar:GPLv3
+dotenv: BSD-3
+pillow: HPND
+mysql: GPL
