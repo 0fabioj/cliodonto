@@ -1,3 +1,4 @@
 # Programa auxiliar para clínica escola de odontologia
-## Linguagem: Python
-## Banco de Dados: MySQL
+### Linguagem: Python
+### Banco de Dados: MySQL
+### Lib: Tk
